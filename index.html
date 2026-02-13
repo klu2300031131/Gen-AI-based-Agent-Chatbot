@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KLU Agent | AI-Powered College Assistant</title>
+    <meta name="description"
+        content="KLU Agent is a Gen AI-powered chatbot for KL University. Get instant answers about admissions, courses, schedules, campus services, and events.">
+    <meta name="keywords" content="KLU, KL University, chatbot, AI assistant, admissions, courses, campus">
+    <meta name="author" content="KLU Agent Team">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Ambient Background Effects -->
+    <div class="ambient-bg">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <div class="app-container" id="appContainer">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo-container">
+                    <div class="logo-icon">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <div class="logo-text">
+                        <h1>KLU Agent</h1>
+                        <span class="logo-subtitle">AI Assistant</span>
+                    </div>
+                </div>
+                <button class="sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+            </div>
+
+            <button class="new-chat-btn" id="newChatBtn">
+                <i class="fas fa-plus"></i>
+                <span>New Chat</span>
+            </button>
+
+            <div class="sidebar-section">
+                <h3 class="section-title">Recent Chats</h3>
+                <div class="chat-history" id="chatHistory">
+                    <!-- Chat history items will be dynamically added -->
+                </div>
+            </div>
+
+            <div class="sidebar-section quick-links">
+                <h3 class="section-title">Quick Topics</h3>
+                <div class="topic-chips">
+                    <button class="topic-chip" data-query="Tell me about admissions process">
+                        <i class="fas fa-user-plus"></i> Admissions
+                    </button>
+                    <button class="topic-chip" data-query="What courses are available?">
+                        <i class="fas fa-book"></i> Courses
+                    </button>
+                    <button class="topic-chip" data-query="Show me the academic schedule">
+                        <i class="fas fa-calendar-alt"></i> Schedule
+                    </button>
+                    <button class="topic-chip" data-query="What campus services are available?">
+                        <i class="fas fa-concierge-bell"></i> Services
+                    </button>
+                    <button class="topic-chip" data-query="Tell me about upcoming events">
+                        <i class="fas fa-calendar-check"></i> Events
+                    </button>
+                    <button class="topic-chip" data-query="What are the hostel facilities?">
+                        <i class="fas fa-building"></i> Hostel
+                    </button>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <div class="status-indicator">
+                    <span class="status-dot online"></span>
+                    <span>AI Agent Online</span>
+                </div>
+                <div class="footer-links">
+                    <button id="settingsBtn" aria-label="Settings"><i class="fas fa-cog"></i></button>
+                    <button id="themeToggleBtn" aria-label="Toggle theme"><i class="fas fa-moon"></i></button>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="chat-main" id="chatMain">
+            <!-- Top Bar -->
+            <header class="chat-header" id="chatHeader">
+                <div class="header-left">
+                    <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Open menu">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                    <div class="header-info">
+                        <h2>KLU Agent</h2>
+                        <span class="typing-status" id="typingStatus">
+                            <span class="status-dot online"></span>
+                            Ready to help
+                        </span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="header-btn" id="clearChatBtn" title="Clear chat">
+                        <i class="fas fa-trash-alt"></i>
+                    </button>
+                    <button class="header-btn" id="exportChatBtn" title="Export chat">
+                        <i class="fas fa-download"></i>
+                    </button>
+                </div>
+            </header>
+
+            <!-- Chat Messages Container -->
+            <div class="chat-container" id="chatContainer">
+                <!-- Welcome Screen -->
+                <div class="welcome-screen" id="welcomeScreen">
+                    <div class="welcome-content">
+                        <div class="welcome-avatar">
+                            <div class="avatar-ring">
+                                <div class="avatar-inner">
+                                    <i class="fas fa-robot"></i>
+                                </div>
+                            </div>
+                            <div class="pulse-ring"></div>
+                        </div>
+                        <h2 class="welcome-title">Welcome to <span class="gradient-text">KLU Agent</span></h2>
+                        <p class="welcome-subtitle">Your AI-powered assistant for KL University. I can help you with
+                            admissions, courses, schedules, campus services, events, and much more.</p>
+
+                        <div class="suggestion-cards">
+                            <button class="suggestion-card"
+                                data-query="What are the admission requirements for B.Tech?">
+                                <div class="card-icon"><i class="fas fa-graduation-cap"></i></div>
+                                <div class="card-content">
+                                    <h4>Admission Requirements</h4>
+                                    <p>Learn about B.Tech admission criteria</p>
+                                </div>
+                                <i class="fas fa-arrow-right card-arrow"></i>
+                            </button>
+                            <button class="suggestion-card" data-query="What are the top departments at KLU?">
+                                <div class="card-icon"><i class="fas fa-building-columns"></i></div>
+                                <div class="card-content">
+                                    <h4>Departments</h4>
+                                    <p>Explore top departments & programs</p>
+                                </div>
+                                <i class="fas fa-arrow-right card-arrow"></i>
+                            </button>
+                            <button class="suggestion-card" data-query="Tell me about placement statistics">
+                                <div class="card-icon"><i class="fas fa-chart-line"></i></div>
+                                <div class="card-content">
+                                    <h4>Placements</h4>
+                                    <p>View placement stats & top recruiters</p>
+                                </div>
+                                <i class="fas fa-arrow-right card-arrow"></i>
+                            </button>
+                            <button class="suggestion-card"
+                                data-query="What campus facilities are available for students?">
+                                <div class="card-icon"><i class="fas fa-university"></i></div>
+                                <div class="card-content">
+                                    <h4>Campus Life</h4>
+                                    <p>Discover campus facilities & clubs</p>
+                                </div>
+                                <i class="fas fa-arrow-right card-arrow"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Messages will be dynamically added here -->
+                <div class="messages-wrapper" id="messagesWrapper"></div>
+            </div>
+
+            <!-- Input Area -->
+            <div class="input-area" id="inputArea">
+                <div class="input-container">
+                    <div class="input-wrapper">
+                        <button class="attach-btn" id="attachBtn" title="Attach file">
+                            <i class="fas fa-paperclip"></i>
+                        </button>
+                        <textarea id="messageInput" placeholder="Ask me anything about KLU..." rows="1"
+                            aria-label="Type your message"></textarea>
+                        <div class="input-actions">
+                            <button class="voice-btn" id="voiceBtn" title="Voice input">
+                                <i class="fas fa-microphone"></i>
+                            </button>
+                            <button class="send-btn" id="sendBtn" title="Send message" disabled>
+                                <i class="fas fa-paper-plane"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <p class="input-disclaimer">KLU Agent uses RAG to provide accurate information. Responses are
+                        grounded in institutional data.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Settings Modal -->
+    <div class="modal-overlay" id="settingsModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3><i class="fas fa-cog"></i> Settings</h3>
+                <button class="modal-close" id="closeSettingsBtn"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="setting-group">
+                    <label>Theme</label>
+                    <div class="theme-options">
+                        <button class="theme-option active" data-theme="dark">
+                            <i class="fas fa-moon"></i> Dark
+                        </button>
+                        <button class="theme-option" data-theme="light">
+                            <i class="fas fa-sun"></i> Light
+                        </button>
+                        <button class="theme-option" data-theme="system">
+                            <i class="fas fa-desktop"></i> System
+                        </button>
+                    </div>
+                </div>
+                <div class="setting-group">
+                    <label>Font Size</label>
+                    <div class="font-size-slider">
+                        <span>A</span>
+                        <input type="range" id="fontSizeSlider" min="12" max="20" value="15">
+                        <span class="large-a">A</span>
+                    </div>
+                </div>
+                <div class="setting-group">
+                    <label>Notifications</label>
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="notificationsToggle" checked>
+                        <span class="toggle-slider"></span>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile Overlay -->
+    <div class="mobile-overlay" id="mobileOverlay"></div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

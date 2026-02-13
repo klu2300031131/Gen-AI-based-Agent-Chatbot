@@ -1,0 +1,348 @@
+{
+    "university_overview": {
+        "name": "KL University (KLU)",
+        "full_name": "Koneru Lakshmaiah Education Foundation",
+        "type": "Deemed-to-be University",
+        "established": 1980,
+        "deemed_status_year": 2009,
+        "location": "Vaddeswaram, Guntur District, Andhra Pradesh, India",
+        "campus_area": "100+ acres",
+        "chancellor": "Koneru Satyanarayana",
+        "website": "https://www.kluniversity.in",
+        "accreditation": ["NAAC A++ Grade", "NBA Accredited", "UGC Recognized"],
+        "rankings": "Ranked among top private universities in India"
+    },
+    "admissions": {
+        "undergraduate": {
+            "btech": {
+                "eligibility": "10+2 with Physics, Chemistry, and Mathematics with minimum 60% aggregate",
+                "entrance_exams": ["KLUEEE (KL University Engineering Entrance Exam)", "JEE Main", "AP EAMCET"],
+                "application_period": "January to May every year",
+                "application_fee": "Rs. 1,000",
+                "process": [
+                    "Visit the official KLU website or admission portal",
+                    "Fill out the online application form with personal and academic details",
+                    "Upload required documents (photos, mark sheets, certificates)",
+                    "Pay the application fee online",
+                    "Attend KLUEEE or submit JEE Main / EAMCET scores",
+                    "Check merit list on the university website",
+                    "Report to campus for document verification and fee payment",
+                    "Confirm admission by paying the first semester fee"
+                ],
+                "documents_required": [
+                    "10th and 12th mark sheets",
+                    "Transfer Certificate",
+                    "Migration Certificate",
+                    "Community Certificate (if applicable)",
+                    "Aadhar Card",
+                    "Passport-size photographs",
+                    "Entrance exam scorecard"
+                ]
+            },
+            "bba": {
+                "eligibility": "10+2 in any stream with minimum 50% aggregate",
+                "entrance_exams": ["KLU Management Entrance"],
+                "application_period": "February to June"
+            }
+        },
+        "postgraduate": {
+            "mtech": {
+                "eligibility": "B.Tech in relevant discipline with minimum 60% aggregate",
+                "entrance_exams": ["GATE", "KLU PG Entrance"],
+                "scholarships": "GATE qualified students receive fee waiver"
+            },
+            "mba": {
+                "eligibility": "Graduation in any discipline with minimum 50% aggregate",
+                "entrance_exams": ["CAT", "MAT", "XAT", "KLU Management Entrance"],
+                "specializations": ["Finance", "Marketing", "HR", "Operations", "Business Analytics"]
+            }
+        },
+        "phd": {
+            "eligibility": "Post-graduation with minimum 55% aggregate and valid research proposal",
+            "entrance": "KLU Research Entrance Test + Interview",
+            "fellowship": "University fellowship available for full-time scholars"
+        },
+        "international_students": {
+            "eligibility": "Equivalent qualifications recognized by AIU",
+            "additional_requirements": ["Valid passport", "Student visa", "English proficiency certificate"],
+            "support": "Dedicated International Student Cell for assistance"
+        }
+    },
+    "departments": [
+        {
+            "name": "Computer Science and Engineering",
+            "code": "CSE",
+            "hod": "Department Head CSE",
+            "programs": ["B.Tech CSE", "B.Tech CSE (AI & ML)", "B.Tech CSE (Data Science)", "B.Tech CSE (Cyber Security)", "M.Tech CSE", "Ph.D"],
+            "faculty_count": 120,
+            "specializations": ["Artificial Intelligence", "Machine Learning", "Cloud Computing", "Cybersecurity", "Data Science", "IoT"],
+            "labs": ["AI/ML Lab", "Cloud Computing Lab", "Cybersecurity Lab", "Software Engineering Lab", "Data Science Lab"],
+            "highlights": "Top department with highest placement rate, multiple research publications in IEEE and Springer"
+        },
+        {
+            "name": "Electronics and Communication Engineering",
+            "code": "ECE",
+            "hod": "Department Head ECE",
+            "programs": ["B.Tech ECE", "B.Tech ECE (IoT)", "M.Tech ECE", "M.Tech VLSI", "Ph.D"],
+            "faculty_count": 90,
+            "specializations": ["VLSI Design", "Embedded Systems", "Signal Processing", "Communication Systems", "IoT"],
+            "labs": ["VLSI Lab", "Embedded Systems Lab", "Communication Lab", "Signal Processing Lab"],
+            "highlights": "Known for strong industry connections with Texas Instruments, Qualcomm"
+        },
+        {
+            "name": "Mechanical Engineering",
+            "code": "ME",
+            "programs": ["B.Tech ME", "M.Tech ME", "Ph.D"],
+            "faculty_count": 60,
+            "specializations": ["Thermal Engineering", "Design & Manufacturing", "Automobile Engineering", "Robotics"],
+            "labs": ["CAD/CAM Lab", "Thermal Lab", "Robotics Lab", "Workshop"]
+        },
+        {
+            "name": "Civil Engineering",
+            "code": "CE",
+            "programs": ["B.Tech CE", "M.Tech Structural Engineering", "Ph.D"],
+            "faculty_count": 45,
+            "specializations": ["Structural Engineering", "Environmental Engineering", "Transportation", "Geotechnical"]
+        },
+        {
+            "name": "Electrical and Electronics Engineering",
+            "code": "EEE",
+            "programs": ["B.Tech EEE", "M.Tech Power Systems", "Ph.D"],
+            "faculty_count": 55
+        },
+        {
+            "name": "Information Technology",
+            "code": "IT",
+            "programs": ["B.Tech IT", "M.Tech IT"],
+            "faculty_count": 50
+        },
+        {
+            "name": "Business Administration",
+            "code": "MBA",
+            "programs": ["BBA", "MBA"],
+            "faculty_count": 40,
+            "specializations": ["Finance", "Marketing", "HR", "Operations", "Business Analytics"]
+        },
+        {
+            "name": "Sciences and Humanities",
+            "code": "S&H",
+            "programs": ["B.Sc", "M.Sc", "Ph.D in Sciences"],
+            "faculty_count": 80
+        },
+        {
+            "name": "Biotechnology",
+            "code": "BT",
+            "programs": ["B.Tech Biotechnology", "M.Tech Biotechnology", "Ph.D"],
+            "faculty_count": 30
+        }
+    ],
+    "placements": {
+        "overview": "KLU has a dedicated Training and Placement Cell that works year-round to ensure excellent placement opportunities for students.",
+        "statistics": {
+            "2023_24": {
+                "highest_package_lpa": 44,
+                "average_package_lpa": 6.5,
+                "median_package_lpa": 5.0,
+                "placement_rate_percent": 85,
+                "companies_visited": 500,
+                "total_offers": 3500,
+                "international_offers": 120
+            },
+            "2022_23": {
+                "highest_package_lpa": 42,
+                "average_package_lpa": 6.0,
+                "placement_rate_percent": 82,
+                "companies_visited": 450
+            }
+        },
+        "top_recruiters": [
+            "Google", "Microsoft", "Amazon", "TCS", "Infosys", "Wipro", "Cognizant",
+            "Deloitte", "Accenture", "Capgemini", "HCL", "Tech Mahindra",
+            "IBM", "Oracle", "SAP", "Salesforce", "Zoho", "Flipkart",
+            "PayPal", "Goldman Sachs", "JPMorgan", "Cisco", "Intel",
+            "Samsung", "LG", "Bosch", "Honeywell", "Continental"
+        ],
+        "training_programs": [
+            "Pre-placement training from 2nd year onwards",
+            "Aptitude and reasoning workshops",
+            "Mock interviews and group discussions",
+            "Soft skills and communication training",
+            "Technical bootcamps (DSA, Web Dev, Cloud)",
+            "Industry mentorship programs",
+            "Resume building workshops",
+            "Company-specific preparation sessions"
+        ],
+        "internship_support": "Mandatory 6-month internship in final year with placement cell assistance"
+    },
+    "campus_facilities": {
+        "academic": {
+            "central_library": {
+                "books": "1,00,000+ books and reference materials",
+                "e_resources": "Access to IEEE, Springer, Elsevier, NPTEL",
+                "digital_library": "24/7 digital library access",
+                "seating_capacity": 500,
+                "features": ["Reading halls", "Discussion rooms", "Book bank facility", "Inter-library loan"]
+            },
+            "laboratories": "200+ well-equipped laboratories across all departments",
+            "smart_classrooms": "All classrooms equipped with smart boards and projectors",
+            "research_centers": ["Center for AI & ML", "IoT Research Lab", "Incubation Center", "Innovation Hub"]
+        },
+        "technology": {
+            "wifi": "High-speed Wi-Fi covering entire campus (1 Gbps backbone)",
+            "computer_labs": "3000+ computers available for student use",
+            "erp_system": "Complete ERP for academic management",
+            "lms": "Learning Management System for online resources"
+        },
+        "residential": {
+            "hostels_boys": {
+                "capacity": 5000,
+                "types": ["Single AC", "Double Sharing AC", "Triple Sharing Non-AC"],
+                "amenities": ["Wi-Fi", "Hot water", "Laundry", "Common room", "Study room", "Power backup"]
+            },
+            "hostels_girls": {
+                "capacity": 3000,
+                "types": ["Single AC", "Double Sharing AC", "Triple Sharing Non-AC"],
+                "amenities": ["Wi-Fi", "Hot water", "Laundry", "Common room", "Study room", "Power backup", "24/7 security"],
+                "additional_security": "Female wardens, CCTV surveillance, biometric entry"
+            },
+            "mess": {
+                "meals": ["Breakfast", "Lunch", "Snacks", "Dinner"],
+                "options": ["Vegetarian", "Non-vegetarian", "Special diet"],
+                "quality": "Food committee ensures quality and hygiene standards"
+            }
+        },
+        "sports": {
+            "outdoor": ["Cricket ground", "Football field", "Basketball court", "Volleyball court", "Tennis court", "400m Athletic track"],
+            "indoor": ["Badminton courts", "Table tennis", "Chess room", "Carrom"],
+            "fitness": ["Gymnasium", "Yoga center", "Swimming pool"],
+            "achievements": "Multiple state and national level sports achievements"
+        },
+        "other": {
+            "medical": "24/7 medical center with qualified doctors and ambulance facility",
+            "transport": "Fleet of 100+ buses covering all major routes in Guntur and Vijayawada",
+            "canteens": "Multiple canteens and food courts serving diverse cuisines",
+            "atm": "ATM facilities from major banks on campus",
+            "stationery": "Stationery and book shop on campus",
+            "auditorium": "2000-seat auditorium for events and convocations"
+        }
+    },
+    "fee_structure": {
+        "btech": {
+            "general": {
+                "tuition_fee_per_year": 180000,
+                "other_fees_per_year": 20000,
+                "total_per_year": 200000
+            },
+            "nri": {
+                "tuition_fee_per_year": 350000,
+                "total_per_year": 370000
+            }
+        },
+        "mtech": {
+            "tuition_fee_per_year": 120000,
+            "gate_scholarship": "Complete tuition fee waiver for GATE qualified students"
+        },
+        "mba": {
+            "tuition_fee_per_year": 200000
+        },
+        "hostel_fees": {
+            "single_ac_per_year": 120000,
+            "double_sharing_ac_per_year": 90000,
+            "triple_sharing_non_ac_per_year": 60000,
+            "mess_charges_per_year": 48000
+        },
+        "transport_fee_per_year": "30000 to 50000 depending on distance",
+        "scholarships": {
+            "merit_based": "Up to 100% tuition fee waiver based on KLUEEE/JEE rank",
+            "sports_quota": "Fee concession for national/state level sports achievers",
+            "research_fellowship": "Monthly stipend for Ph.D scholars",
+            "need_based": "Fee concession for economically weaker sections",
+            "government_schemes": "SC/ST/OBC scholarships as per government norms"
+        },
+        "payment_options": ["Full year payment", "Semester-wise payment", "Education loan assistance", "Online payment portal"]
+    },
+    "academic_calendar": {
+        "odd_semester": {
+            "classes_begin": "July 15",
+            "mid_semester_exams": "September 15-22",
+            "end_semester_exams": "November 25 - December 10",
+            "winter_break": "December 15 - January 5"
+        },
+        "even_semester": {
+            "classes_begin": "January 6",
+            "mid_semester_exams": "March 10-17",
+            "end_semester_exams": "May 20 - June 5",
+            "summer_break": "June 10 - July 14"
+        },
+        "important_events": {
+            "foundation_day": "February",
+            "samyak_tech_fest": "March",
+            "cultural_fest": "October",
+            "convocation": "August",
+            "independence_day": "August 15",
+            "republic_day": "January 26",
+            "teachers_day": "September 5"
+        }
+    },
+    "student_clubs": [
+        {"name": "Coding Club", "focus": "Competitive programming, hackathons", "activities": "Weekly contests, CodeChef camps"},
+        {"name": "Robotics Club", "focus": "Robotics, drones, automation", "activities": "Robot building workshops, competitions"},
+        {"name": "Entrepreneurship Cell (E-Cell)", "focus": "Startup culture, business ideas", "activities": "Pitch events, startup weekends, mentorship"},
+        {"name": "IEEE Student Branch", "focus": "Technical papers, conferences", "activities": "Paper presentations, tech talks"},
+        {"name": "Google Developer Student Club (GDSC)", "focus": "Google technologies, Android, Cloud", "activities": "Study jams, build events, hackathons"},
+        {"name": "Microsoft Learn Student Ambassadors", "focus": "Microsoft technologies, Azure", "activities": "Workshops, certifications, events"},
+        {"name": "Cultural Club", "focus": "Music, dance, drama, art", "activities": "Cultural events, fests, performances"},
+        {"name": "Photography Club", "focus": "Photography, videography", "activities": "Photo walks, exhibitions, workshops"},
+        {"name": "Debate Club", "focus": "Public speaking, Model UN", "activities": "Debates, MUN conferences"},
+        {"name": "NSS (National Service Scheme)", "focus": "Community service", "activities": "Blood drives, village adoption, awareness camps"},
+        {"name": "NCC (National Cadet Corps)", "focus": "Discipline, national service", "activities": "Parades, camps, adventure activities"}
+    ],
+    "events_and_fests": {
+        "samyak": {
+            "type": "Annual Tech Fest",
+            "description": "One of the largest technical festivals in Andhra Pradesh featuring hackathons, coding contests, robotics competitions, tech talks by industry leaders, and workshops",
+            "typical_month": "March",
+            "activities": ["Hackathon", "Coding Contest", "Robotics Challenge", "Paper Presentation", "Project Exhibition", "Tech Quiz", "Gaming Tournament"],
+            "footfall": "10,000+"
+        },
+        "surabhi": {
+            "type": "Annual Cultural Fest",
+            "description": "Grand cultural festival with music, dance, drama competitions, celebrity performances, and art exhibitions",
+            "typical_month": "October",
+            "activities": ["Music Competition", "Dance Battle", "Drama/Skit", "Fashion Show", "Stand-up Comedy", "Art Exhibition", "Celebrity Night"],
+            "footfall": "15,000+"
+        },
+        "regular_events": [
+            "Weekly coding contests on CodeChef and LeetCode",
+            "Monthly guest lectures by industry professionals",
+            "Quarterly hackathons and ideathons",
+            "Technical workshops on AI/ML, Cloud Computing, Cybersecurity",
+            "Annual sports meet",
+            "Inter-departmental cultural competitions",
+            "Research symposiums and paper presentations"
+        ]
+    },
+    "contact_information": {
+        "admissions_office": {
+            "phone": "+91-XXXX-XXXXXX",
+            "email": "admissions@kluniversity.in",
+            "timing": "9:00 AM - 5:00 PM (Monday to Saturday)"
+        },
+        "placement_cell": {
+            "phone": "+91-XXXX-XXXXXX",
+            "email": "placements@kluniversity.in"
+        },
+        "hostel_office": {
+            "phone": "+91-XXXX-XXXXXX",
+            "email": "hostel@kluniversity.in"
+        },
+        "examination_cell": {
+            "email": "exams@kluniversity.in"
+        },
+        "general_enquiry": {
+            "phone": "+91-XXXX-XXXXXX",
+            "email": "info@kluniversity.in"
+        },
+        "address": "KL University, Green Fields, Vaddeswaram, Guntur District, Andhra Pradesh - 522502, India"
+    }
+}

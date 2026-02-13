@@ -1,0 +1,32 @@
+# KLU Agent Backend Dependencies
+
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# LangChain - Agentic Framework & RAG
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-openai
+
+# Vector Database
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Document Loaders
+pypdf
+
+# Database
+sqlalchemy
+
+# Environment Variables
+python-dotenv
+
+# Utilities
+pydantic
+pydantic-settings
