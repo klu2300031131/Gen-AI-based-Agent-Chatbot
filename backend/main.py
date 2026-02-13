@@ -51,33 +51,37 @@ class HealthResponse(BaseModel):
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Initialize resources on startup, cleanup on shutdown."""
-    print("🚀 Starting KLU Agent Backend...")
+    print("Starting KLU Agent Backend...")
 
-    # Initialize database
-    print("📦 Initializing database...")
+    # Initialize database (fast - keep synchronous)
+    print("Initializing database...")
     init_db()
     seed_db()
-    print("✅ Database ready!")
+    print("Database ready!")
 
-    # Initialize vector store (load in background)
-    print("🔄 Initializing RAG pipeline...")
-    try:
-        from rag.vector_store import get_vector_store
-        store = get_vector_store()
-        if store:
-            print("✅ Vector store ready!")
-        else:
-            print("⚠️ Vector store initialization failed - will retry on first query")
-    except Exception as e:
-        print(f"⚠️ Vector store pre-loading failed: {e}")
+    # Initialize vector store in background thread (slow - don't block startup)
+    import threading
+    def _init_rag():
+        try:
+            print("Initializing RAG pipeline in background...")
+            from rag.vector_store import get_vector_store
+            store = get_vector_store()
+            if store:
+                print("Vector store ready!")
+            else:
+                print("Vector store initialization failed - will retry on first query")
+        except Exception as e:
+            print(f"Vector store pre-loading failed: {e}")
 
-    print("🎉 KLU Agent Backend is ready!")
-    print(f"📡 API running at http://localhost:{config.PORT}")
-    print(f"🧠 LLM Provider: {config.LLM_PROVIDER}")
+    threading.Thread(target=_init_rag, daemon=True).start()
+
+    print("KLU Agent Backend is ready!")
+    print(f"API running at http://localhost:{config.PORT}")
+    print(f"LLM Provider: {config.LLM_PROVIDER}")
 
     yield
 
-    print("👋 Shutting down KLU Agent Backend...")
+    print("Shutting down KLU Agent Backend...")
 
 
 # ============================================
