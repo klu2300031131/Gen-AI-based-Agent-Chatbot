@@ -1,0 +1,19 @@
+# Ignore Python files and dependencies during Vercel build
+# This prevents Vercel from trying to install heavy AI libraries
+# while keeping them visible in your GitHub repository.
+
+server.py
+agent.py
+rag_pipeline.py
+vector_store.py
+embeddings.py
+database.py
+config.py
+requirements.txt
+.env.example
+docs/
+vector_db/
+models/
+logs/
+venv/
+__pycache__/
