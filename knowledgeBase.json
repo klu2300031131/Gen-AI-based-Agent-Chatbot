@@ -1,0 +1,1416 @@
+{
+    "university": {
+        "name": "KL University (Koneru Lakshmaiah Education Foundation)",
+        "established": 1980,
+        "deemed_status": 2009,
+        "naac_grade": "A+",
+        "nirf_ranking": "Top 50 Engineering Institutions in India",
+        "location": "Green Fields, Vaddeswaram, Guntur District, Andhra Pradesh - 522302",
+        "phone": "+91-863-2344700",
+        "email": "admissions@kluniversity.in",
+        "website": "www.kluniversity.in",
+        "vice_chancellor": "Prof. K. Srinivasa Rao",
+        "founder": "Dr. Koneru Satyanarayana",
+        "president": "Shri K. L. Narasimha Rao",
+        "tagline": "Empowering Minds, Building Futures",
+        "type": "Deemed-to-be University (Private)",
+        "ug_programs": 25,
+        "pg_programs": 18,
+        "phd_programs": 15,
+        "total_acres": 78
+    },
+    "admissions": {
+        "overview": "KL University offers admissions to UG, PG, and PhD programs every academic year. The university follows a merit-based, transparent admission process.",
+        "ug_eligibility": {
+            "engineering": "10+2 with Physics, Chemistry, Maths with minimum 60% marks",
+            "science": "10+2 with PCB or PCM with minimum 55% marks",
+            "management": "10+2 in any stream with minimum 55% marks",
+            "arts": "10+2 in any stream with minimum 50% marks"
+        },
+        "pg_eligibility": {
+            "mtech": "B.Tech/B.E with minimum 60% marks in relevant branch",
+            "mba": "Any Bachelor's degree with minimum 55% marks + entrance test",
+            "mca": "BCA/B.Sc CS/IT with minimum 55% marks",
+            "msc": "B.Sc in relevant subject with minimum 55% marks"
+        },
+        "entrance_exams": [
+            "EAMCET (AP/TS) - Primary route for local students",
+            "JEE Main - All India Common Entrance",
+            "KLUEEE - KL University's own entrance exam",
+            "GATE - For M.Tech admissions",
+            "CAT/MAT/XAT - For MBA admissions",
+            "KLUMET - KL Management Entrance Test",
+            "TOEFL/IELTS - For international students"
+        ],
+        "application_steps": [
+            "Step 1: Visit www.kluniversity.in/admissions",
+            "Step 2: Register with valid email and phone number",
+            "Step 3: Fill the online application form",
+            "Step 4: Upload required documents (certificates, photos, ID proof)",
+            "Step 5: Pay application fee of ₹500 (non-refundable)",
+            "Step 6: Appear for KLUEEE or submit qualifying exam scores",
+            "Step 7: Attend counselling session",
+            "Step 8: Pay fees and confirm seat"
+        ],
+        "counselling": {
+            "mode": "Online and Offline both available",
+            "rounds": 3,
+            "documents_required": [
+                "10th Marksheet & Certificate",
+                "12th Marksheet & Certificate",
+                "Transfer Certificate",
+                "Migration Certificate",
+                "Caste/Category Certificate (if applicable)",
+                "Income Certificate (for scholarships)",
+                "Passport size photographs (6 copies)",
+                "Aadhar Card",
+                "Entrance Exam Scorecard"
+            ]
+        },
+        "deadlines": {
+            "application_start": "January 15",
+            "application_end": "June 30",
+            "counselling_round1": "July 10-15",
+            "counselling_round2": "July 22-27",
+            "counselling_round3": "August 5-8",
+            "classes_begin": "August 15"
+        },
+        "reservation_policy": {
+            "sc_st": "15% seats reserved as per UGC norms",
+            "obc": "27% seats reserved",
+            "ews": "10% for Economically Weaker Sections",
+            "management_quota": "15% Management Quota seats",
+            "sports_quota": "2% for outstanding sports persons",
+            "differently_abled": "3% for PwD candidates",
+            "nri_foreign": "Separate quota for NRI/Foreign students"
+        },
+        "international_admissions": {
+            "process": "International students can apply through the International Admissions Office",
+            "requirements": "TOEFL minimum 80 / IELTS minimum 6.0 band",
+            "contact": "international@kluniversity.in",
+            "phone": "+91-863-2344800",
+            "programs_offered": "B.Tech, MBA, M.Tech, MCA, Ph.D",
+            "scholarships_available": true,
+            "scholarship_amount": "Up to 50% tuition fee waiver for meritorious international students"
+        },
+        "contact": {
+            "admissions_office": "+91-863-2344700",
+            "helpline": "1800-425-2888 (Toll Free)",
+            "email": "admissions@kluniversity.in",
+            "office_hours": "Monday to Saturday: 9:00 AM – 5:00 PM"
+        }
+    },
+    "courses": {
+        "schools": [
+            {
+                "name": "School of Engineering",
+                "programs": {
+                    "ug": [
+                        {
+                            "program": "B.Tech Computer Science & Engineering",
+                            "duration": "4 Years",
+                            "seats": 540,
+                            "specializations": [
+                                "AI & Machine Learning",
+                                "Data Science",
+                                "Cybersecurity",
+                                "Cloud Computing",
+                                "IoT",
+                                "Full Stack Development"
+                            ]
+                        },
+                        {
+                            "program": "B.Tech Electronics & Communication Engineering",
+                            "duration": "4 Years",
+                            "seats": 360,
+                            "specializations": [
+                                "VLSI Design",
+                                "Embedded Systems",
+                                "Signal Processing",
+                                "5G & Communications"
+                            ]
+                        },
+                        {
+                            "program": "B.Tech Electrical & Electronics Engineering",
+                            "duration": "4 Years",
+                            "seats": 180,
+                            "specializations": [
+                                "Power Systems",
+                                "Control Systems",
+                                "Renewable Energy"
+                            ]
+                        },
+                        {
+                            "program": "B.Tech Mechanical Engineering",
+                            "duration": "4 Years",
+                            "seats": 180,
+                            "specializations": [
+                                "Thermal Engineering",
+                                "Manufacturing",
+                                "Robotics",
+                                "Automotive Engineering"
+                            ]
+                        },
+                        {
+                            "program": "B.Tech Civil Engineering",
+                            "duration": "4 Years",
+                            "seats": 120,
+                            "specializations": [
+                                "Structural Engineering",
+                                "Environmental Engineering",
+                                "Construction Management"
+                            ]
+                        },
+                        {
+                            "program": "B.Tech Information Technology",
+                            "duration": "4 Years",
+                            "seats": 180,
+                            "specializations": [
+                                "Web Technologies",
+                                "Database Systems",
+                                "Network Security"
+                            ]
+                        },
+                        {
+                            "program": "B.Tech Artificial Intelligence & Machine Learning",
+                            "duration": "4 Years",
+                            "seats": 180
+                        },
+                        {
+                            "program": "B.Tech Data Science",
+                            "duration": "4 Years",
+                            "seats": 120
+                        },
+                        {
+                            "program": "B.Tech Biotechnology",
+                            "duration": "4 Years",
+                            "seats": 60
+                        }
+                    ],
+                    "pg": [
+                        {
+                            "program": "M.Tech Computer Science & Engineering",
+                            "duration": "2 Years",
+                            "seats": 60,
+                            "specializations": [
+                                "AI/ML",
+                                "Cloud Computing",
+                                "Cybersecurity"
+                            ]
+                        },
+                        {
+                            "program": "M.Tech VLSI Design",
+                            "duration": "2 Years",
+                            "seats": 30
+                        },
+                        {
+                            "program": "M.Tech Structural Engineering",
+                            "duration": "2 Years",
+                            "seats": 30
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "School of Management",
+                "programs": {
+                    "ug": [
+                        {
+                            "program": "BBA (Bachelor of Business Administration)",
+                            "duration": "3 Years",
+                            "seats": 120,
+                            "specializations": [
+                                "Marketing",
+                                "Finance",
+                                "HR",
+                                "Operations",
+                                "International Business"
+                            ]
+                        },
+                        {
+                            "program": "B.Com (Bachelor of Commerce)",
+                            "duration": "3 Years",
+                            "seats": 120
+                        }
+                    ],
+                    "pg": [
+                        {
+                            "program": "MBA (Master of Business Administration)",
+                            "duration": "2 Years",
+                            "seats": 180,
+                            "specializations": [
+                                "Finance",
+                                "Marketing",
+                                "HR",
+                                "Operations Management",
+                                "Business Analytics",
+                                "Digital Marketing"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "School of Sciences",
+                "programs": {
+                    "ug": [
+                        {
+                            "program": "B.Sc Computer Science",
+                            "duration": "3 Years",
+                            "seats": 120
+                        },
+                        {
+                            "program": "B.Sc Physics",
+                            "duration": "3 Years",
+                            "seats": 60
+                        },
+                        {
+                            "program": "B.Sc Mathematics",
+                            "duration": "3 Years",
+                            "seats": 60
+                        },
+                        {
+                            "program": "B.Sc Chemistry",
+                            "duration": "3 Years",
+                            "seats": 60
+                        }
+                    ],
+                    "pg": [
+                        {
+                            "program": "M.Sc Data Science",
+                            "duration": "2 Years",
+                            "seats": 60
+                        },
+                        {
+                            "program": "M.Sc Mathematics",
+                            "duration": "2 Years",
+                            "seats": 30
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "School of Law",
+                "programs": {
+                    "ug": [
+                        {
+                            "program": "BA.LLB (Hons.)",
+                            "duration": "5 Years",
+                            "seats": 120
+                        },
+                        {
+                            "program": "BBA.LLB (Hons.)",
+                            "duration": "5 Years",
+                            "seats": 120
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "School of Pharmaceutical Sciences",
+                "programs": {
+                    "ug": [
+                        {
+                            "program": "B.Pharm",
+                            "duration": "4 Years",
+                            "seats": 100
+                        }
+                    ],
+                    "pg": [
+                        {
+                            "program": "M.Pharm",
+                            "duration": "2 Years",
+                            "seats": 60
+                        }
+                    ]
+                }
+            }
+        ],
+        "credit_system": {
+            "type": "Choice Based Credit System (CBCS)",
+            "total_credits_btech": "160 credits for B.Tech",
+            "breakdown": {
+                "core_engineering": 80,
+                "electives": 30,
+                "labs": 24,
+                "projects": 16,
+                "open_electives": 10
+            },
+            "grading": "10-point grade scale (O, A+, A, B+, B, C, D, F)"
+        },
+        "industry_tieups": [
+            "Microsoft Technology Associate Program",
+            "IBM SkillsBuild Partnership",
+            "Oracle Academy",
+            "Amazon Web Services Educate",
+            "Google Developer Student Clubs",
+            "NASSCOM FutureSkills",
+            "Cisco Networking Academy",
+            "Red Hat Academy",
+            "GitHub Student Developer Pack",
+            "Infosys Springboard"
+        ],
+        "certifications": [
+            "Microsoft Azure Fundamentals (AZ-900)",
+            "AWS Certified Cloud Practitioner",
+            "Google IT Support Certificate",
+            "Oracle Java Certification",
+            "IBM Data Science Professional Certificate",
+            "Cisco CCNA",
+            "Coursera/edX Integration Certificates"
+        ]
+    },
+    "placements": {
+        "overview": "KL University has an outstanding placement record. The Training and Placement Cell (TPC) at KLU maintains strong industry connections and ensures maximum student employability.",
+        "placement_cell": {
+            "director": "Dr. K. Nagi Reddy",
+            "team_size": 25,
+            "contact": "placements@kluniversity.in",
+            "phone": "+91-863-2344750",
+            "location": "Placement Block, R Block Ground Floor"
+        },
+        "yearly_stats": {
+            "2025": {
+                "students_eligible": 3800,
+                "students_placed": 3496,
+                "placement_percentage": "92%",
+                "highest_package_lpa": 52,
+                "highest_package_company": "Microsoft",
+                "average_package_lpa": 7.8,
+                "median_package_lpa": 6.5,
+                "companies_visited": 380,
+                "offers_made": 4200
+            },
+            "2024": {
+                "students_eligible": 3600,
+                "students_placed": 3240,
+                "placement_percentage": "90%",
+                "highest_package_lpa": 48,
+                "highest_package_company": "Amazon",
+                "average_package_lpa": 7.4,
+                "median_package_lpa": 6.2,
+                "companies_visited": 350,
+                "offers_made": 3900
+            },
+            "2023": {
+                "students_eligible": 3400,
+                "students_placed": 2992,
+                "placement_percentage": "88%",
+                "highest_package_lpa": 45,
+                "highest_package_company": "Microsoft",
+                "average_package_lpa": 6.9,
+                "median_package_lpa": 5.8,
+                "companies_visited": 310,
+                "offers_made": 3500
+            },
+            "2022": {
+                "students_eligible": 3200,
+                "students_placed": 2752,
+                "placement_percentage": "86%",
+                "highest_package_lpa": 42,
+                "highest_package_company": "Amazon",
+                "average_package_lpa": 6.4,
+                "median_package_lpa": 5.2,
+                "companies_visited": 280,
+                "offers_made": 3100
+            },
+            "2021": {
+                "students_eligible": 2800,
+                "students_placed": 2296,
+                "placement_percentage": "82%",
+                "highest_package_lpa": 38,
+                "highest_package_company": "Samsung",
+                "average_package_lpa": 5.8,
+                "median_package_lpa": 4.8,
+                "companies_visited": 240,
+                "offers_made": 2700
+            }
+        },
+        "top_recruiters": [
+            {
+                "company": "Microsoft",
+                "role": "Software Engineer",
+                "avg_package": "22-52 LPA"
+            },
+            {
+                "company": "Amazon",
+                "role": "SDE / Business Analyst",
+                "avg_package": "18-48 LPA"
+            },
+            {
+                "company": "Infosys",
+                "role": "Systems Engineer / Digital Specialist",
+                "avg_package": "4.5-8 LPA"
+            },
+            {
+                "company": "TCS",
+                "role": "Assistant System Engineer / Digital",
+                "avg_package": "3.6-7 LPA"
+            },
+            {
+                "company": "Wipro",
+                "role": "Project Engineer / WILP",
+                "avg_package": "3.5-6.5 LPA"
+            },
+            {
+                "company": "Cognizant",
+                "role": "Programmer Analyst",
+                "avg_package": "4-6.5 LPA"
+            },
+            {
+                "company": "Deloitte",
+                "role": "Analyst / Consultant",
+                "avg_package": "7-14 LPA"
+            },
+            {
+                "company": "Capgemini",
+                "role": "Analyst / Senior Analyst",
+                "avg_package": "4-9 LPA"
+            },
+            {
+                "company": "Oracle",
+                "role": "Application Engineer",
+                "avg_package": "10-22 LPA"
+            },
+            {
+                "company": "HCL Technologies",
+                "role": "Graduate Engineer Trainee",
+                "avg_package": "3.8-6 LPA"
+            },
+            {
+                "company": "Tech Mahindra",
+                "role": "Software Engineer",
+                "avg_package": "3.5-6 LPA"
+            },
+            {
+                "company": "Accenture",
+                "role": "Associate Software Engineer",
+                "avg_package": "4.5-8.5 LPA"
+            },
+            {
+                "company": "IBM",
+                "role": "Software Developer / Cloud Engineer",
+                "avg_package": "7-16 LPA"
+            },
+            {
+                "company": "Samsung",
+                "role": "Software Engineer / R&D Engineer",
+                "avg_package": "12-38 LPA"
+            },
+            {
+                "company": "Adobe",
+                "role": "Member of Technical Staff",
+                "avg_package": "15-40 LPA"
+            },
+            {
+                "company": "Hexaware",
+                "role": "Graduate Engineer",
+                "avg_package": "3.5-5.5 LPA"
+            },
+            {
+                "company": "Mphasis",
+                "role": "Software Engineer",
+                "avg_package": "4-7 LPA"
+            },
+            {
+                "company": "L&T Technology Services",
+                "role": "Engineer",
+                "avg_package": "4-8 LPA"
+            },
+            {
+                "company": "Persistent Systems",
+                "role": "Software Engineer",
+                "avg_package": "5-9 LPA"
+            },
+            {
+                "company": "Zoho",
+                "role": "Member of Technical Staff",
+                "avg_package": "4-10 LPA"
+            }
+        ],
+        "sector_wise_hiring": {
+            "IT_software": "52%",
+            "product_companies": "18%",
+            "banking_finance": "10%",
+            "core_engineering": "8%",
+            "analytics_data": "7%",
+            "consulting": "5%"
+        },
+        "internships": {
+            "mandatory": true,
+            "duration": "6-8 weeks (after 3rd year)",
+            "stipend_range": "₹5,000 – ₹25,000 per month",
+            "companies_2024": [
+                "TCS",
+                "Infosys",
+                "Wipro",
+                "Amazon",
+                "Microsoft",
+                "Google",
+                "Zoho",
+                "Nexthink",
+                "Qualcomm"
+            ],
+            "internship_conversion_rate": "35% interns receive pre-placement offers (PPOs)"
+        },
+        "training_programs": [
+            {
+                "name": "KLUEEE Aptitude Training",
+                "description": "30-hour aptitude, reasoning & verbal ability training for campus placements",
+                "provider": "Internal TPC Team + External Trainers"
+            },
+            {
+                "name": "Technical Skill Development",
+                "description": "Coding bootcamps in C, Java, Python, DSA for 3rd year students",
+                "provider": "SmartInterviews, Coding Ninjas"
+            },
+            {
+                "name": "Soft Skills & Communication",
+                "description": "Group discussions, mock interviews, presentation skills with industry experts",
+                "provider": "External HR Professionals"
+            },
+            {
+                "name": "Industry Certification Program",
+                "description": "AWS, Azure, Google Cloud certification prep",
+                "provider": "AWS/Microsoft/Google in partnership with KLU"
+            }
+        ],
+        "placement_activities": [
+            "Career Development Week (every semester)",
+            "Industry Expert Talks (monthly)",
+            "Resume Building Workshops",
+            "LinkedIn Profile Optimization Sessions",
+            "Mock Assessment Tests",
+            "Company-specific Placement Preparation Bootcamps",
+            "Coding Contests with placement referrals as prizes"
+        ],
+        "alumni_success": [
+            {
+                "name": "Ravi Kumar Teja",
+                "batch": "2019",
+                "company": "Microsoft",
+                "current_role": "Senior Software Engineer",
+                "package": "35 LPA"
+            },
+            {
+                "name": "Priya Lakshmi",
+                "batch": "2020",
+                "company": "Amazon",
+                "current_role": "Software Development Engineer II",
+                "package": "42 LPA"
+            },
+            {
+                "name": "Sai Charan",
+                "batch": "2021",
+                "company": "Deloitte",
+                "current_role": "Analyst – Technology",
+                "package": "12 LPA"
+            },
+            {
+                "name": "Sneha Reddy",
+                "batch": "2018",
+                "company": "Adobe",
+                "current_role": "Product Manager",
+                "package": "38 LPA"
+            },
+            {
+                "name": "Kiran Babu",
+                "batch": "2022",
+                "company": "Samsung R&D Bangalore",
+                "current_role": "Software Engineer",
+                "package": "18 LPA"
+            }
+        ]
+    },
+    "students": {
+        "total_enrollment": 22000,
+        "ug_students": 17000,
+        "pg_students": 3500,
+        "phd_scholars": 850,
+        "international_students": 650,
+        "countries_represented": 28,
+        "graduation_rate": "94%",
+        "female_student_percentage": "38%",
+        "branch_wise_strength": {
+            "CSE": 4200,
+            "ECE": 2800,
+            "EEE": 1200,
+            "Mechanical": 1400,
+            "Civil": 900,
+            "IT": 1500,
+            "AI_ML": 1100,
+            "Data_Science": 800,
+            "MBA": 1200,
+            "BBA_BCom": 900,
+            "BSc": 800,
+            "Law": 600,
+            "Pharmacy": 500,
+            "Others": 1600
+        },
+        "achievements": [
+            "Students have represented India in International Robotics competitions",
+            "KLU Students won National Smart India Hackathon 2023",
+            "Multiple students selected for ISRO internship programs",
+            "KLU Cricket team won inter-university zonal championship 2024",
+            "Students published 200+ research papers in international journals",
+            "50+ startups founded by KLU alumni and current students",
+            "Students won prestigious ACM ICPC Regional rounds",
+            "KLU won Best Technical Fest Award at national level",
+            "Women students won National-level Science Olympiad 2024"
+        ],
+        "student_clubs": [
+            "Google Developer Student Club (GDSC)",
+            "IEEE Student Branch",
+            "CSI Student Chapter",
+            "Rotaract Club KLU",
+            "National Service Scheme (NSS)",
+            "National Cadet Corps (NCC)",
+            "Photography Club",
+            "Drama & Theatre Club",
+            "Music Club",
+            "Literary Club",
+            "Entrepreneurship Cell (E-Cell)",
+            "Coding Club",
+            "Robotics Club",
+            "Data Science Club",
+            "Environmental Awareness Club"
+        ]
+    },
+    "faculty": {
+        "total_faculty": 1150,
+        "phd_faculty": 680,
+        "phd_percentage": "59%",
+        "faculty_student_ratio": "1:19",
+        "research_publications_per_year": 850,
+        "international_publications": 420,
+        "scopus_indexed_papers": 1200,
+        "patents_filed": 88,
+        "patents_granted": 34,
+        "visiting_professors": 45,
+        "industry_experts_on_board": 60,
+        "senior_professors": 220,
+        "associate_professors": 380,
+        "assistant_professors": 550,
+        "centers_of_excellence": [
+            {
+                "name": "Center of Excellence in AI & ML",
+                "sponsor": "Microsoft & Google",
+                "focus": "Deep Learning, Natural Language Processing, Computer Vision"
+            },
+            {
+                "name": "Center of Excellence in Cybersecurity",
+                "sponsor": "DRDO",
+                "focus": "Network Security, Cryptography, Ethical Hacking"
+            },
+            {
+                "name": "Center of Excellence in IoT",
+                "sponsor": "NASSCOM",
+                "focus": "Smart Devices, Industrial IoT, Edge Computing"
+            },
+            {
+                "name": "Center of Excellence in Data Analytics",
+                "sponsor": "IBM",
+                "focus": "Big Data, Business Intelligence, Predictive Analytics"
+            },
+            {
+                "name": "Center of Excellence in Blockchain",
+                "sponsor": "MeitY",
+                "focus": "DeFi, Smart Contracts, Supply Chain"
+            }
+        ],
+        "notable_faculty": [
+            {
+                "name": "Dr. P. Venkata Krishna",
+                "designation": "Professor & HoD CSE",
+                "specialization": "Machine Learning & IoT",
+                "publications": 120
+            },
+            {
+                "name": "Dr. Srinivasa Rao G",
+                "designation": "Professor ECE",
+                "specialization": "VLSI Design",
+                "publications": 88
+            },
+            {
+                "name": "Dr. Latha K.",
+                "designation": "Professor Mathematics",
+                "specialization": "Graph Theory",
+                "publications": 65
+            }
+        ]
+    },
+    "infrastructure": {
+        "campus_area": "78 Acres lush green campus",
+        "libraries": {
+            "name": "Dr. K.L.N. Prasad Central Library",
+            "books": "2,80,000+ volumes",
+            "journals": "500+ international journals",
+            "e_library": "24/7 access to IEEE, Elsevier, Springer, Scopus databases",
+            "digital_journals": "45,000+ e-journals",
+            "reading_seats": 1200,
+            "branches": 3
+        },
+        "labs": {
+            "total_labs": 120,
+            "description": "State-of-the-art labs equipped with latest hardware and software",
+            "major_labs": [
+                "Advanced AI & Machine Learning Lab",
+                "Cloud Computing Lab (AWS + Azure setup)",
+                "Cybersecurity Research Lab",
+                "Robotics & Automation Lab",
+                "IoT Innovation Lab",
+                "Big Data Analytics Lab",
+                "Embedded Systems Lab",
+                "VLSI Design Lab",
+                "Networks & Communication Lab",
+                "Chemistry Research Lab",
+                "Biotechnology Lab",
+                "Physics Instrumentation Lab"
+            ]
+        },
+        "incubation_center": {
+            "name": "KL Innovation & Incubation Center (KLIC)",
+            "startups_incubated": 72,
+            "funding_raised_by_startups": "₹45 Crores+",
+            "mentors": 30,
+            "services": [
+                "Co-working Space",
+                "Legal Support",
+                "IP Filing",
+                "Investor Connect",
+                "Prototype Development"
+            ]
+        },
+        "sports_complex": {
+            "indoor_facilities": [
+                "Badminton Courts",
+                "Table Tennis",
+                "Chess Room",
+                "Gymnasium",
+                "Boxing Ring",
+                "Wrestling Mat"
+            ],
+            "outdoor_facilities": [
+                "Cricket Ground",
+                "Football Field",
+                "Basketball Courts",
+                "Volleyball Courts",
+                "Athletics Track",
+                "Swimming Pool"
+            ],
+            "nba_standard": "Basketball court meets NBA specifications"
+        },
+        "transport": {
+            "buses": 85,
+            "routes": 40,
+            "areas_covered": [
+                "Guntur",
+                "Vijayawada",
+                "Tenali",
+                "Mangalagiri",
+                "Narasaraopet",
+                "Chirala"
+            ],
+            "gps_enabled": true,
+            "shuttle_service": "On-campus shuttle every 30 minutes"
+        },
+        "hospital": {
+            "name": "KL University Health Center",
+            "beds": 60,
+            "doctors": 12,
+            "specialists": [
+                "General Physician",
+                "Dentist",
+                "Ophthalmologist",
+                "Gynecologist"
+            ],
+            "ambulance": 3,
+            "24_7_availability": true,
+            "pharmacy": true,
+            "free_for_students": true
+        },
+        "cafeterias": {
+            "count": 8,
+            "capacity": 2500,
+            "options": [
+                "Vegetarian",
+                "Non-Vegetarian",
+                "Jain Food",
+                "South Indian",
+                "North Indian",
+                "Fast Food",
+                "Beverages Corner"
+            ],
+            "food_courts": 2,
+            "tie_ups": [
+                "Domino's Outlet on Campus",
+                "Café Coffee Day Vending Machines",
+                "KFC Express"
+            ]
+        },
+        "wifi": {
+            "campus_coverage": "100%",
+            "speed": "10 Gbps backbone",
+            "student_speed": "100 Mbps per device",
+            "provider": "BSNL, ACT Fibernet, Airtel (redundant)",
+            "zones": "All classrooms, hostels, library, cafeteria, open areas"
+        },
+        "digital_classrooms": {
+            "total": 250,
+            "smart_boards": true,
+            "projectors": true,
+            "recording_enabled": true,
+            "lms": "Moodle-based Learning Management System"
+        }
+    },
+    "campus_blocks": {
+        "R_block": {
+            "name": "R Block – Administration & Academic Hub",
+            "floors": 7,
+            "facilities": [
+                "Vice Chancellor's Office",
+                "Registrar Office",
+                "Finance Department",
+                "Controller of Examinations",
+                "Academic Scheduling Department",
+                "Spacious Classrooms (250+ seating)",
+                "Smart Boards in all rooms",
+                "Staff Rooms and Faculty Cabins",
+                "Department of Computer Science (partial)",
+                "MBA Classrooms"
+            ]
+        },
+        "C_block": {
+            "name": "C Block – Engineering Labs & Lecture Halls",
+            "floors": 6,
+            "facilities": [
+                "Core Engineering Laboratories",
+                "Electronics & Communication Labs",
+                "Electrical Engineering Labs",
+                "Mechanical Engineering Workshop",
+                "Civil Engineering Surveying Lab",
+                "Computer Science Programming Labs",
+                "Advanced Robotics Lab",
+                "Project Rooms for Final Year Students",
+                "Seminar Hall (capacity 300)"
+            ]
+        },
+        "S_block": {
+            "name": "S Block – Seminar, Student Services & Innovation",
+            "floors": 5,
+            "facilities": [
+                "International Seminar Hall (Capacity: 1000+)",
+                "Training & Placement Cell",
+                "Student Grievance Cell",
+                "Counselling & Wellness Center",
+                "Finance & Scholarship Office",
+                "Student Activities Center",
+                "GDSC & IEEE Club Rooms",
+                "Entrepreneurship Cell (E-Cell) Office",
+                "AI Innovation Lab",
+                "Video Conferencing Rooms"
+            ]
+        },
+        "K_block": {
+            "name": "K Block – Knowledge & Research Center",
+            "floors": 4,
+            "facilities": [
+                "Dr. K.L.N. Prasad Central Library (Main)",
+                "Research Scholars Reading Area",
+                "Digital Library with 45,000+ e-journals",
+                "E-Learning Studio",
+                "Research Labs for Ph.D scholars",
+                "Faculty Research Cabins",
+                "Journal & Publication Support Cell"
+            ]
+        },
+        "T_block": {
+            "name": "T Block – Technology & Computing",
+            "floors": 5,
+            "facilities": [
+                "High-End Computing Cluster",
+                "Data Center & Server Room",
+                "Network Operations Center",
+                "AI & Big Data Research Lab",
+                "Cloud Computing Lab (AWS/Azure)",
+                "Cybersecurity Lab",
+                "IoT Demonstration Zone"
+            ]
+        }
+    },
+    "events": {
+        "annual_fests": [
+            {
+                "name": "Samyak",
+                "type": "Technical Fest",
+                "frequency": "Annual – February",
+                "description": "KLU's flagship technical festival featuring national-level coding, robotics, and innovation competitions",
+                "participation": "10,000+ students from 200+ colleges",
+                "prize_pool": "₹15 Lakhs+",
+                "events": [
+                    "Hackathons (24-hour & 48-hour)",
+                    "Robo Wars",
+                    "Code Sprint",
+                    "Paper Presentation",
+                    "Project Expo",
+                    "Quiz Championships",
+                    "Web Design Contest",
+                    "AI/ML Challenge",
+                    "Gaming Tournament"
+                ],
+                "organizing_clubs": [
+                    "IEEE",
+                    "CSI",
+                    "GDSC",
+                    "Coding Club",
+                    "Robotics Club"
+                ]
+            },
+            {
+                "name": "Surabhi",
+                "type": "Cultural Fest",
+                "frequency": "Annual – March",
+                "description": "KLU's grand cultural extravaganza celebrating arts, music, dance, and entertainment",
+                "participation": "15,000+ students and guests",
+                "prize_pool": "₹10 Lakhs+",
+                "events": [
+                    "Battle of Bands",
+                    "Classical & Western Dance",
+                    "Antakshari",
+                    "Drama & Theatre",
+                    "Fashion Show",
+                    "Stand-up Comedy",
+                    "Photography Contest",
+                    "Painting & Art Exhibition",
+                    "Street Play",
+                    "Celebrity Performances"
+                ],
+                "organizing_clubs": [
+                    "Music Club",
+                    "Drama Club",
+                    "Photography Club",
+                    "Literary Club"
+                ]
+            },
+            {
+                "name": "E-Summit",
+                "type": "Entrepreneurship Summit",
+                "frequency": "Annual – November",
+                "events": [
+                    "Startup Pitches",
+                    "VC Panels",
+                    "Ideathon",
+                    "Business Plan Competition"
+                ],
+                "prize_pool": "₹5 Lakhs + Funding Opportunities",
+                "participation": "3,000+ students and 50+ investors"
+            }
+        ],
+        "workshops_and_hackathons": [
+            "Smart India Hackathon (National Level)",
+            "KLU Internal Hackathon (Semester)",
+            "AWS Cloud Hackathon",
+            "Google Solution Challenge",
+            "AI for Social Good Hackathon",
+            "Blockchain Innovation Workshop",
+            "Cybersecurity CTF (Capture The Flag)",
+            "Data Science Olympiad"
+        ],
+        "guest_lectures": {
+            "frequency": "Weekly across departments",
+            "industry_visitors": "100+ industry experts per semester",
+            "notable_speakers": [
+                "Former ISRO Scientists",
+                "IIT/IIM Professors",
+                "Startup Founders",
+                "Senior Tech Leaders from MNCs"
+            ]
+        },
+        "sports_events": [
+            "Inter-department Cricket League",
+            "Basketball Championship",
+            "Badminton Tourneys",
+            "Annual Sports Day",
+            "Chess Olympiad",
+            "Football Knockout Cups"
+        ]
+    },
+    "hostel": {
+        "overview": "KL University provides excellent hostel facilities for both boys and girls within the campus, ensuring safety, comfort, and academic focus.",
+        "blocks": {
+            "boys_hostels": [
+                "Block H1",
+                "Block H2",
+                "Block H3",
+                "Block H4",
+                "Block H5"
+            ],
+            "girls_hostels": [
+                "Block G1",
+                "Block G2",
+                "Block G3"
+            ]
+        },
+        "total_capacity": 8000,
+        "boys_capacity": 5000,
+        "girls_capacity": 3000,
+        "room_types": [
+            {
+                "type": "2-Sharing Room",
+                "annual_fee": "₹75,000",
+                "facilities": [
+                    "Air Cooler",
+                    "Study Table",
+                    "Wardrobe",
+                    "WiFi",
+                    "Attached Bathroom"
+                ]
+            },
+            {
+                "type": "3-Sharing Room",
+                "annual_fee": "₹55,000",
+                "facilities": [
+                    "Ceiling Fan",
+                    "Study Table",
+                    "Wardrobe",
+                    "WiFi",
+                    "Common Bathroom"
+                ]
+            },
+            {
+                "type": "4-Sharing Room",
+                "annual_fee": "₹45,000",
+                "facilities": [
+                    "Ceiling Fan",
+                    "Study Table",
+                    "Shared Wardrobe",
+                    "WiFi",
+                    "Common Bathroom"
+                ]
+            },
+            {
+                "type": "AC Single Room (PG Students)",
+                "annual_fee": "₹1,10,000",
+                "facilities": [
+                    "AC",
+                    "Smart TV",
+                    "Study Table",
+                    "WiFi",
+                    "Attached Bathroom",
+                    "Mini Fridge"
+                ]
+            }
+        ],
+        "facilities": [
+            "24/7 WiFi coverage (100 Mbps)",
+            "24-hour security with CCTV surveillance",
+            "Biometric entry system",
+            "Laundry service (paid, ₹200/month)",
+            "Common Room with TV",
+            "Indoor Games Area",
+            "Gym (separate for boys and girls)",
+            "RO Water purifiers on every floor",
+            "Power backup (24 hours generator)",
+            "Mess (in-house food service)",
+            "Medical room on each block",
+            "First Aid kits",
+            "Reading/Study rooms",
+            "Newspaper and magazine subscriptions"
+        ],
+        "rules": [
+            "Curfew for boys: 10:00 PM weekdays, 11:00 PM weekends",
+            "Curfew for girls: 9:00 PM weekdays, 10:00 PM weekends",
+            "Visitors allowed only in visitor's lounge",
+            "Visiting hours: 9:00 AM to 5:00 PM",
+            "Alcohol and smoking strictly prohibited",
+            "Ragging is a punishable offense with immediate expulsion",
+            "Cleanliness and hygiene maintenance mandatory",
+            "Overnight outings require written parental consent"
+        ],
+        "wardens": {
+            "chief_warden": "Dr. (Mrs.) Padmavathi Rao",
+            "warden_ratio": "1 warden per 200 students",
+            "women_wardens_in_girls_hostel": true
+        },
+        "security": {
+            "cctv_cameras": 200,
+            "security_guards": 50,
+            "biometric_entry": true,
+            "police_coordination": true
+        }
+    },
+    "mess_food": {
+        "overview": "KL University provides nutritious, hygienic, and delicious meals through a well-managed Hostel Mess. The menu is planned by a dietitian to ensure balanced nutrition for students.",
+        "capacity": 3000,
+        "cost_per_month": "₹3,200 (included in hostel fee)",
+        "hygiene": [
+            "FSSAI Certified Mess Operations",
+            "Daily kitchen inspection by health officer",
+            "Pest control every 15 days",
+            "Food samples stored for 24 hours for safety checks",
+            "Staff wear gloves, aprons, and hairnets mandatorily",
+            "Water purification by RO + UV system",
+            "Vegetables sourced from certified organic farms",
+            "Monthly surprise quality audits"
+        ],
+        "dining_hall_capacity": 3000,
+        "weekly_menu": {
+            "Monday": {
+                "breakfast": {
+                    "main": "Idli (3 pcs) with Sambar and Coconut Chutney",
+                    "side": "Boiled Egg (non-veg option) / Peanut Salad",
+                    "beverage": "Tea / Coffee / Milk"
+                },
+                "lunch": {
+                    "main": "Rice + Dal Fry + Rajma Masala",
+                    "side": "Cabbage Stir-Fry + Papad + Pickle",
+                    "non_veg": "Chicken Curry (Mon/Thu)",
+                    "dessert": "Banana"
+                },
+                "snacks": "Samosa (2 pcs) + Masala Chai",
+                "dinner": {
+                    "main": "Chapati (3) + Paneer Butter Masala + Rice",
+                    "side": "Mixed Veg Salad + Buttermilk",
+                    "non_veg": "Egg Curry"
+                }
+            },
+            "Tuesday": {
+                "breakfast": {
+                    "main": "Upma with Ghee + Vada (2 pcs)",
+                    "side": "Boiled Groundnuts + Coconut Chutney",
+                    "beverage": "Tea / Coffee / Milk"
+                },
+                "lunch": {
+                    "main": "Rice + Sambar + Aloo Gobi",
+                    "side": "Tomato Rasam + Curd + Papad",
+                    "dessert": "Fruit Custard"
+                },
+                "snacks": "Bread Pakoda + Nimbu Pani",
+                "dinner": {
+                    "main": "Chapati + Dal Makhani + Fried Rice",
+                    "side": "Raita + Green Salad"
+                }
+            },
+            "Wednesday": {
+                "breakfast": {
+                    "main": "Poha + Boiled Egg (non-veg) / Sprouts (veg)",
+                    "side": "Green Chutney",
+                    "beverage": "Tea / Coffee"
+                },
+                "lunch": {
+                    "main": "Lemon Rice + Sambar + Bhindi Fry",
+                    "side": "Curd Rice + Papad + Pickle",
+                    "non_veg": "Fish Curry (Wed/Sat)",
+                    "dessert": "Sweet Pongal"
+                },
+                "snacks": "Veg Puffs + Chai",
+                "dinner": {
+                    "main": "Roti + Chana Masala + Steamed Rice",
+                    "side": "Mixed Salad + Lassi"
+                }
+            },
+            "Thursday": {
+                "breakfast": {
+                    "main": "Dosa (2) + Sambar + Tomato Chutney",
+                    "side": "Boiled Egg / Groundnut Chutney",
+                    "beverage": "Tea / Coffee / Milk"
+                },
+                "lunch": {
+                    "main": "Rice + Rasam + Palak Dal",
+                    "side": "Potato Fry + Papad + Curd",
+                    "non_veg": "Chicken Biryani (special Thursday)",
+                    "dessert": "Halwa"
+                },
+                "snacks": "Mirchi Bajji + Tea",
+                "dinner": {
+                    "main": "Chapati + Veg Korma + Rice",
+                    "side": "Salad + Buttermilk"
+                }
+            },
+            "Friday": {
+                "breakfast": {
+                    "main": "Puri (3) + Aloo Bhaji",
+                    "side": "Pickle + Coconut Chutney",
+                    "beverage": "Tea / Coffee / Milk"
+                },
+                "lunch": {
+                    "main": "Rice + Tomato Dal + Mix Veg Curry",
+                    "side": "Rasam + Curd + Pappad",
+                    "dessert": "Ice Cream (occasionally)"
+                },
+                "snacks": "Biscuits + Cold Drink / Juice Box",
+                "dinner": {
+                    "main": "Veg Pulao + Paneer Curry + Chapati",
+                    "side": "Raita + Salad",
+                    "non_veg": "Egg Bhurji"
+                }
+            },
+            "Saturday": {
+                "breakfast": {
+                    "main": "Pesarattu (green gram dosa) + Upma + Ginger Chutney",
+                    "side": "Boiled Egg",
+                    "beverage": "Milk / Coffee / Tea"
+                },
+                "lunch": {
+                    "main": "Rice + Sambar + Aloo Matar Curry",
+                    "side": "Fish Gravy (non-veg) + Curd + Pickle",
+                    "dessert": "Payasam / Kheer"
+                },
+                "snacks": "Onion Pakoda + Chai",
+                "dinner": {
+                    "main": "Chapati + Kadai Paneer + Dal Rice",
+                    "side": "Salad + Raita"
+                }
+            },
+            "Sunday": {
+                "special": "SPECIAL SUNDAY MENU",
+                "breakfast": {
+                    "main": "Idli (2) + Vada (1) + Mini Medu Vada + Onion Uttapam",
+                    "side": "Sambar + Coconut Chutney + Tomato Chutney",
+                    "special": "Semiya Kheer / Suji Halwa",
+                    "beverage": "Milk / Badam Milk / Tea"
+                },
+                "lunch": {
+                    "main": "Special Biryani (Veg/Chicken/Mutton)",
+                    "side": "Raita + Mirchi Ka Salan + Onion Salad",
+                    "non_veg": "Mutton Biryani + Egg",
+                    "special_starter": "Chicken Kebab (non-veg) / Paneer Tikka (veg)",
+                    "dessert": "Gulab Jamun (2 pcs) + Ice Cream"
+                },
+                "snacks": "Popcorn + Juice Bar (Mango, Orange, Watermelon)",
+                "dinner": {
+                    "main": "Naan + Butter Chicken / Shahi Paneer",
+                    "side": "Cucumber Raita + Fresh Salad",
+                    "extra": "Rasmalai / Halwa as sweet"
+                }
+            }
+        },
+        "special_occasions": [
+            "Festival specials (Diwali sweets, Holi special thali, Pongal celebration meal)",
+            "Birthday cake cutting facility",
+            "Vegan/Jain meal on request (24-hour advance notice)",
+            "Diabetic meal option available"
+        ]
+    },
+    "fees": {
+        "tuition_fees": {
+            "BTech_CSE_AIML_DS": "₹1,65,000 per year",
+            "BTech_ECE_EEE": "₹1,40,000 per year",
+            "BTech_Mechanical_Civil": "₹1,20,000 per year",
+            "BTech_IT": "₹1,45,000 per year",
+            "MTech": "₹90,000 per year",
+            "MBA": "₹95,000 per year",
+            "MCA": "₹75,000 per year",
+            "BBA_BCom": "₹55,000 per year",
+            "BSc": "₹45,000 per year",
+            "LLB": "₹70,000 per year",
+            "BPharm": "₹85,000 per year"
+        },
+        "hostel_fees": {
+            "4_sharing": "₹45,000 per year (mess excluded)",
+            "3_sharing": "₹55,000 per year (mess excluded)",
+            "2_sharing": "₹75,000 per year (mess excluded)",
+            "ac_single": "₹1,10,000 per year (mess excluded)",
+            "mess_charges": "₹38,400 per year (₹3,200/month)"
+        },
+        "other_fees": {
+            "exam_fee": "₹2,500 per semester",
+            "library_fee": "₹1,000 per year",
+            "sports_fee": "₹500 per year",
+            "transport_fee": "₹8,000–₹15,000 per year (based on distance)"
+        },
+        "scholarships": [
+            {
+                "name": "Merit Scholarship (KLU)",
+                "criteria": "JEE Mains rank < 5000 or 10+2 > 95%",
+                "benefit": "100% tuition fee waiver (4 years)"
+            },
+            {
+                "name": "Gold Scholarship (KLU)",
+                "criteria": "JEE Mains rank 5001–15000 or 10+2 > 90%",
+                "benefit": "50% tuition fee waiver"
+            },
+            {
+                "name": "Silver Scholarship (KLU)",
+                "criteria": "EAMCET rank < 10000",
+                "benefit": "25% tuition fee waiver"
+            },
+            {
+                "name": "AP/TS State Government Scholarship",
+                "criteria": "Eligible AP/TS students (caste-based & income-based)",
+                "benefit": "Full or partial tuition fee reimbursement"
+            },
+            {
+                "name": "SC/ST Scholarship",
+                "criteria": "SC/ST students with income < ₹2.5 LPA",
+                "benefit": "Full fee waiver + stipend"
+            },
+            {
+                "name": "Sports Quota Scholarship",
+                "criteria": "National/State level sports achievement",
+                "benefit": "25–50% fee waiver"
+            }
+        ],
+        "payment_methods": [
+            "Online payment via KLU Student Portal",
+            "Net Banking (all major banks)",
+            "Credit/Debit Card",
+            "UPI (Google Pay, PhonePe, Paytm)",
+            "Demand Draft",
+            "NEFT/RTGS",
+            "Education Loan (SBI, HDFC, ICICI, Axis Bank tie-ups)"
+        ],
+        "installment_options": {
+            "available": true,
+            "semesters": 2,
+            "deadlines": [
+                "July 31 (1st Installment)",
+                "January 15 (2nd Installment)"
+            ],
+            "late_fee": "₹100 per day after deadline"
+        },
+        "education_loan_partners": [
+            "State Bank of India",
+            "HDFC Credila",
+            "ICICI Bank",
+            "Axis Bank",
+            "Canara Bank"
+        ]
+    },
+    "academic_calendar": {
+        "academic_year": "August – May",
+        "semesters": 2,
+        "odd_semester": {
+            "start": "August 15",
+            "end": "January 15",
+            "mid_exams": "October 1–10",
+            "end_exams": "December 20 – January 10",
+            "results": "January 25"
+        },
+        "even_semester": {
+            "start": "January 20",
+            "end": "June 15",
+            "mid_exams": "March 1–10",
+            "end_exams": "May 10–June 5",
+            "results": "June 20"
+        },
+        "add_drop_period": "First 2 weeks of each semester",
+        "registration": "Online registration via KLU portal 2 weeks before semester start",
+        "holidays": [
+            "Republic Day – January 26",
+            "Ugadi – (as per Telugu calendar)",
+            "Rama Navami",
+            "Good Friday",
+            "Independence Day – August 15",
+            "Dussehra – 5 days holiday",
+            "Diwali – 3 days holiday",
+            "Christmas – December 25",
+            "Sankranthi – 3 days holiday",
+            "Summer Vacation – May 20 to August 14",
+            "Winter Vacation – January 11–19"
+        ],
+        "supplementary_exams": "August (for failed subjects)",
+        "grade_release": "Within 3 weeks of end exam completion",
+        "academic_audit": "Once per year by internal & external committees"
+    }
+}

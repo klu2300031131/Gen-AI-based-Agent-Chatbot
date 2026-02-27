@@ -1,0 +1,165 @@
+KL UNIVERSITY — ACADEMIC HANDBOOK 2024-25
+=========================================
+Department of Computer Science & Engineering
+
+CHAPTER 1: PROGRAMME EDUCATIONAL OBJECTIVES (PEO)
+
+1.1 Overview
+KL University's B.Tech Computer Science & Engineering programme is designed to produce graduates
+who are not only technically proficient but also capable of adapting to the rapidly evolving
+landscape of the technology industry.
+
+Programme Educational Objectives:
+  PEO1: Graduates will demonstrate proficiency in the design, development, and implementation
+        of complex software systems using modern programming paradigms and tools.
+  PEO2: Graduates will apply mathematical foundations, algorithmic thinking, and computing
+        principles to analyse and solve real-world problems.
+  PEO3: Graduates will function effectively as members and leaders of multi-disciplinary teams
+        in professional environments.
+  PEO4: Graduates will engage in lifelong learning and adapt to advances in computing technologies.
+
+CHAPTER 2: B.TECH CSE CURRICULUM STRUCTURE
+
+2.1 Credit Distribution (Total: 160 Credits)
+  Core Engineering Subjects   : 80 credits
+  Professional Electives      : 24 credits
+  Open Electives              : 12 credits
+  Laboratory Courses          : 24 credits
+  Major Project               : 12 credits
+  Mini Project                : 4 credits
+  Internship                  : 4 credits
+
+2.2 Semester-wise Course Plan
+
+SEMESTER 1 (18 Credits):
+  MA101 - Engineering Mathematics I              (4 credits, 3-1-0)
+  CS101 - Problem Solving & Programming in C    (4 credits, 3-0-2)
+  PH101 - Engineering Physics                   (3 credits, 3-0-0)
+  CH101 - Engineering Chemistry                 (3 credits, 3-0-0)
+  ME101 - Engineering Drawing                   (2 credits, 0-0-4)
+  EG101 - English for Communication             (2 credits, 2-0-0)
+
+SEMESTER 2 (20 Credits):
+  MA201 - Engineering Mathematics II            (4 credits, 3-1-0)
+  CS201 - Object-Oriented Programming (Java)    (4 credits, 3-0-2)
+  EC201 - Digital Electronics                   (4 credits, 3-0-2)
+  CS202 - Data Structures                       (4 credits, 3-0-2)
+  EG201 - Technical Writing                     (2 credits, 2-0-0)
+  HS201 - Environmental Science                 (2 credits, 2-0-0)
+
+SEMESTER 3 (22 Credits):
+  MA301 - Discrete Mathematics                  (4 credits)
+  CS301 - Algorithms & Complexity               (4 credits)
+  CS302 - Computer Organisation & Architecture  (4 credits)
+  CS303 - Database Management Systems           (4 credits)
+  CS304 - Operating Systems                     (4 credits)
+  CS3L1 - DBMS Lab                              (2 credits)
+
+SEMESTER 4 (22 Credits):
+  CS401 - Compiler Design                       (4 credits)
+  CS402 - Computer Networks                     (4 credits)
+  CS403 - Software Engineering                  (4 credits)
+  CS404 - Theory of Computation                 (4 credits)
+  PE401 - Professional Elective I               (3 credits)
+  CS4L1 - Networks Lab                          (2 credits)
+  CS4L2 - Software Engineering Lab              (1 credit)
+
+SEMESTER 5 (20 Credits):
+  CS501 - Machine Learning                      (4 credits)
+  CS502 - Artificial Intelligence               (4 credits)
+  CS503 - Cloud Computing                       (4 credits)
+  PE501 - Professional Elective II              (3 credits)
+  PE502 - Professional Elective III             (3 credits)
+  CS5L1 - ML Lab                                (2 credits)
+
+SEMESTER 6 (18 Credits):
+  CS601 - Deep Learning                         (4 credits)
+  CS602 - Cybersecurity & Ethical Hacking       (4 credits)
+  CS603 - Big Data Analytics                    (4 credits)
+  PE601 - Professional Elective IV              (3 credits)
+  OE601 - Open Elective I                       (3 credits)
+
+SEMESTER 7 (14 Credits):
+  CS701 - Internet of Things                    (4 credits)
+  CS702 - Natural Language Processing           (4 credits)
+  OE701 - Open Elective II                      (3 credits)
+  CS7MP - Mini Project                          (3 credits)
+
+SEMESTER 8 (14 Credits):
+  CS801 - Blockchain Technology                 (3 credits)
+  CS802 - Quantum Computing (Elective)          (3 credits)
+  CS8MJ - Major Project (B.Tech Thesis)         (8 credits)
+
+CHAPTER 3: EVALUATION SYSTEM
+
+3.1 Continuous Internal Assessment
+  Mid Exam 1       : 30 marks (Week 6-7 of semester)
+  Mid Exam 2       : 30 marks (Week 12-13 of semester)
+  Assignments      : 20 marks (2 assignments × 10 marks)
+  Attendance       : 10 marks (based on attendance %)
+  Lab Performance  : 10 marks (for lab subjects)
+
+3.2 End Semester Examination
+  Duration         : 3 hours
+  Total Marks      : 100
+  Passing Marks    : 40 (40%)
+
+3.3 Grading System
+  O  (Outstanding)  : 90-100 → 10 Grade Points
+  A+ (Excellent)    : 80-89  →  9 Grade Points
+  A  (Very Good)    : 70-79  →  8 Grade Points
+  B+ (Good)         : 60-69  →  7 Grade Points
+  B  (Above Avg)    : 50-59  →  6 Grade Points
+  C  (Average)      : 45-49  →  5 Grade Points
+  D  (Pass)         : 40-44  →  4 Grade Points
+  F  (Fail)         : 0-39   →  0 Grade Points
+
+3.4 Attendance Policy
+  Minimum attendance required: 75%
+  75-84%  : Allowed to appear in End Sem (with warning)
+  Below 75%: Detained from End Sem Examination
+  Medical exceptions can be granted with valid documentation
+  submitted to the HoD within 5 working days.
+
+CHAPTER 4: PROFESSIONAL ELECTIVES (PE) OPTIONS
+
+4.1 Data Science & AI Track:
+  CS-PE-01 Advanced Machine Learning
+  CS-PE-02 Computer Vision
+  CS-PE-03 Reinforcement Learning
+  CS-PE-04 MLOps & Model Deployment
+  CS-PE-05 Natural Language Processing
+
+4.2 Cybersecurity Track:
+  CS-PE-06 Network Security Protocols
+  CS-PE-07 Cryptography & Information Security
+  CS-PE-08 Ethical Hacking & Penetration Testing
+  CS-PE-09 Digital Forensics
+  CS-PE-10 Blockchain Security
+
+4.3 Cloud & DevOps Track:
+  CS-PE-11 AWS Cloud Architecture
+  CS-PE-12 Kubernetes & Microservices
+  CS-PE-13 DevOps Engineering
+  CS-PE-14 Serverless Computing
+  CS-PE-15 Multi-Cloud Strategy
+
+CHAPTER 5: INTERNSHIP & PROJECT GUIDELINES
+
+5.1 Mandatory Internship (6-8 Weeks)
+  Timing    : After 3rd year (during summer vacation)
+  Credits   : 4
+  Report    : 30-page internship report required
+  Viva      : External viva conducted by HoD panel
+  Min stipend: ₹5,000/month (recommended)
+  Companies : Students may arrange own internship with HoD approval
+
+5.2 Major Project Guidelines
+  Duration  : 2 semesters (7th and 8th)
+  Team size : 2-4 students
+  Guide     : Assigned faculty member
+  Reviews   : R1 (Week 4), R2 (Week 8), R3 (Week 12), Final (Week 16)
+  Deliverables: SRS, SDD, Final Report, Presentation, Source Code
+
+Contact: CSE Department Office, R Block, 3rd Floor
+Email  : cse@kluniversity.in | Phone: +91-863-2344720

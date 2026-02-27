@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+.venv/
+env/
+
+# Environment
+.env
+*.env
+
+# Vector DB (large, regenerated from docs)
+vector_db/
+*.bin
+*.pkl
+
+# ML Models (large files)
+models/
+*.safetensors
+*.gguf
+
+# Logs
+logs/
+*.log
+klu_backend.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if any)
+node_modules/

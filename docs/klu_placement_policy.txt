@@ -1,0 +1,107 @@
+KL UNIVERSITY — PLACEMENT POLICY & GUIDELINES 2024-25
+======================================================
+Training & Placement Cell (TPC)
+R Block, Ground Floor | placements@kluniversity.in | +91-863-2344750
+
+SECTION 1: ELIGIBILITY FOR CAMPUS PLACEMENTS
+
+1.1 Basic Eligibility
+Students must meet the following criteria to register for campus placements:
+  (a) CGPA ≥ 6.0 cumulative up to the latest completed semester
+  (b) No active backlogs (all papers cleared)
+  (c) Minimum 75% attendance in current semester
+  (d) Registered with the TPC portal: tpc.kluniversity.in
+  (e) Updated resume submitted to TPC at least 15 days before drive
+
+Note: Companies may impose additional criteria (e.g., CGPA ≥ 7.5, no gap year).
+Students must check company-specific requirements before applying.
+
+1.2 Placement Registration Process
+  Step 1: Log in to the Student TPC Portal (tpc.kluniversity.in)
+  Step 2: Complete your profile (academic, projects, skills, achievements)
+  Step 3: Upload verified resume (PDF), photo, and certificates
+  Step 4: Select desired job roles / domain preferences
+  Step 5: Monitor company announcements and register for drives
+
+SECTION 2: PLACEMENT PROCESS OVERVIEW
+
+2.1 Typical Placement Drive Structure
+  Round 1 — Online Assessment Test:
+    Aptitude: Quantitative, Logical Reasoning, Verbal Ability (60-90 min)
+    Technical: DSA, OOP, DBMS, OS, CN (45-60 min)
+    Coding: 2-3 programming problems (45-90 min) [for tech companies]
+
+  Round 2 — Group Discussion (GD):
+    Topic-based or case-study discussions (15-20 min)
+    Evaluates: Communication, leadership, team skills, domain awareness
+    (Some companies skip GD and go directly to interviews)
+
+  Round 3 — Technical Interview (TR):
+    1-on-1 with company engineers/senior developers
+    Topics: DSA, Projects, Core CS subjects, System Design (for senior roles)
+    Duration: 30-60 minutes
+
+  Round 4 — HR Interview:
+    Salary negotiation (for some companies), cultural fit, situational questions
+    Background verification consent, offer rollout
+
+2.2 Important Rules During Placements
+  • Students can attend multiple drives but can hold only ONE offer at a time
+  • Once a student accepts an offer (signs letter), they are DEBARRED from
+    further placement drives for that academic year (Dream Company Policy excluded)
+  • "Dream Company" policy: Students with a package < ₹10 LPA may continue
+    applying until they get ₹10 LPA or above
+  • Offer letter acceptance deadline: 7 days from date of issue
+  • TPC must be informed of any direct/off-campus offers for record
+
+SECTION 3: TPC TRAINING CALENDAR 2024-25
+
+Semester 5 (2nd Year — Preparation Phase):
+  July-Aug     : Aptitude Foundations (Quant + Reasoning)
+  Sept-Oct     : Core Technical Subjects (DBMS, OS, CN, OOP)
+  Nov-Dec      : DSA & Coding Bootcamp Track A (beginner-intermediate)
+
+Semester 6:
+  Jan-Feb      : Advanced DSA & Coding Bootcamp Track B
+  Mar-Apr      : Mock Placement Drives (Internal simulation)
+  Apr-May      : Resume Review Week + LinkedIn Optimisation
+  May          : Summer Internship Drive (3rd year students)
+
+Semester 7 (Final Year — Active Placement Phase):
+  August       : TPC Portal registration & profile completion deadline
+  Sept-Oct     : Mass-hiring companies (TCS, Infosys, Wipro, Cognizant)
+  Nov-Dec      : Mid-tier companies (Hexaware, Mphasis, L&T, Persistent)
+  Jan-Feb      : Super Dream companies (Microsoft, Amazon, Oracle, Adobe)
+  March        : Remaining drives & spot offers
+
+Semester 8:
+  April onwards: PPO conversions from internships
+  May          : Placement season wrap-up & statistics publication
+
+SECTION 4: COMPANY TIERS & PACKAGE BANDS
+
+Tier 1 — Dream Companies (≥ ₹15 LPA):
+  Microsoft, Amazon, Google, Adobe, Oracle, IBM, Samsung, Qualcomm, Goldman Sachs
+
+Tier 2 — Super Companies (₹8-15 LPA):
+  Deloitte, Capgemini (Digital), Accenture, Mphasis, Persistent, Zoho, Freshworks
+
+Tier 3 — Core Companies (₹4-8 LPA):
+  TCS Digital, Infosys SP, Wipro Elite, Cognizant GenC Elevate, HCL, Tech Mahindra
+
+Tier 4 — Mass Hiring (₹3.5-5 LPA):
+  TCS, Infosys (ASE), Wipro, Cognizant (GenC), Hexaware, Mindtree
+
+SECTION 5: TPC CONTACT INFORMATION
+
+Dr. K. Nagi Reddy      — Director, Training & Placement Cell
+Mr. P. Suresh Kumar    — Associate Director, Technical Training
+Ms. R. Anitha          — Sr. Executive, Corporate Relations
+Ms. K. Swathi          — Placement Coordinator (CSE/IT/AI-ML)
+Mr. V. Srinivas        — Placement Coordinator (ECE/EEE/ME/CE)
+
+Email    : placements@kluniversity.in
+Phone    : +91-863-2344750, +91-863-2344751
+Portal   : https://tpc.kluniversity.in
+Location : Placement Block, R Block Ground Floor, KLU Vaddeswaram
+Walk-in Hours: Monday–Friday, 10:00 AM – 5:00 PM

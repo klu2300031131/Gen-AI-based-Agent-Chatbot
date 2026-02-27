@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KLU Smart Assistant — KL University AI Chatbot</title>
+    <meta name="description"
+        content="KL University Smart Assistant — Get instant answers about admissions, placements, courses, hostel, fees, and more." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <div class="app-wrapper">
+
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="klu-logo">
+                    <div class="logo-icon">🎓</div>
+                    <div>
+                        <div class="logo-title">KL University</div>
+                        <div class="logo-sub">Smart Assistant</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- New Chat Button -->
+            <button class="new-chat-btn" id="newChatBtn">
+                <span class="new-chat-icon">✏</span>
+                New Chat
+            </button>
+
+            <div class="quick-topics-label">Quick Topics</div>
+            <nav class="quick-topics">
+                <button class="topic-btn" data-query="admissions">🎓 Admissions</button>
+                <button class="topic-btn" data-query="courses">📚 Courses & Programs</button>
+                <button class="topic-btn" data-query="placements 2025">💼 Placements 2025</button>
+                <button class="topic-btn" data-query="hostel">🏠 Hostel Info</button>
+                <button class="topic-btn" data-query="mess menu">🍛 Weekly Mess Menu</button>
+                <button class="topic-btn" data-query="fees scholarships">💰 Fees & Scholarships</button>
+                <button class="topic-btn" data-query="faculty">👩‍🏫 Faculty</button>
+                <button class="topic-btn" data-query="events samyak surabhi">🎉 Events & Fests</button>
+                <button class="topic-btn" data-query="campus infrastructure">🏛️ Campus</button>
+                <button class="topic-btn" data-query="students">👨‍🎓 Students</button>
+                <button class="topic-btn" data-query="academic calendar">📅 Academic Calendar</button>
+                <button class="topic-btn" data-query="campus blocks">🏢 Campus Blocks</button>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="university-info">
+                    <div>📍 Vaddeswaram, Guntur, AP</div>
+                    <div>📞 +91-863-2344700</div>
+                    <div>🌐 www.kluniversity.in</div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="chat-main">
+
+            <!-- Header -->
+            <header class="chat-header">
+                <button class="sidebar-toggle" id="sidebarToggle" title="Toggle Sidebar">☰</button>
+                <div class="header-center">
+                    <div class="header-avatar">🤖</div>
+                    <div>
+                        <h1 class="header-title">KLU Smart Assistant</h1>
+                        <p class="header-tagline">Empowering Minds — Instant Answers, 24/7</p>
+                    </div>
+                </div>
+                <div class="header-status">
+                    <span class="status-dot"></span> Online
+                </div>
+            </header>
+
+            <!-- Chat Messages -->
+            <div class="chat-messages" id="chatMessages">
+
+                <!-- Welcome Card -->
+                <div class="welcome-card" id="welcomeCard">
+                    <div class="welcome-icon">🏫</div>
+                    <h2>Welcome to KLU Smart Assistant!</h2>
+                    <p>Your intelligent guide for everything about <strong>KL University</strong>. Ask me anything —
+                        admissions, placements, hostel, fees, and more!</p>
+                    <div class="welcome-chips">
+                        <span class="chip" onclick="sendChip('placements 2025')">📊 Placements 2025</span>
+                        <span class="chip" onclick="sendChip('mess menu')">🍛 Mess Menu</span>
+                        <span class="chip" onclick="sendChip('fees scholarships')">💰 Fees</span>
+                        <span class="chip" onclick="sendChip('admissions')">🎓 Admissions</span>
+                        <span class="chip" onclick="sendChip('hostel')">🏠 Hostel</span>
+                        <span class="chip" onclick="sendChip('events')">🎉 Events</span>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Input Area -->
+            <div class="input-area">
+                <div class="input-container">
+                    <div class="input-wrapper">
+                        <input type="text" id="userInput" class="chat-input"
+                            placeholder="Ask me about KLU admissions, placements, hostel, fees..." autocomplete="off"
+                            maxlength="300" />
+                        <button class="send-btn" id="sendBtn" onclick="handleSend()" title="Send Message">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20"
+                                height="20">
+                                <path
+                                    d="M3.478 2.405a.75.75 0 00-.926.94l2.432 7.905H13.5a.75.75 0 010 1.5H4.984l-2.432 7.905a.75.75 0 00.926.94 60.519 60.519 0 0018.445-8.986.75.75 0 000-1.218A60.517 60.517 0 003.478 2.405z" />
+                            </svg>
+                        </button>
+                    </div>
+                    <div class="input-hint">Press <kbd>Enter</kbd> to send · Runs fully offline · No internet needed
+                    </div>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <script src="knowledgeBase.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

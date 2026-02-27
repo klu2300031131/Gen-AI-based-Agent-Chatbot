@@ -1,0 +1,70 @@
+# ============================================================
+#  KLU Smart Assistant — Agentic RAG Framework
+#  Python Dependencies
+#  Install: pip install -r requirements.txt
+# ============================================================
+
+# ── Web Framework ──────────────────────────────────────────
+flask==3.0.3
+flask-cors==4.0.1
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pydantic==2.7.3
+python-dotenv==1.0.1
+
+# ── LangChain Core + Community ─────────────────────────────
+langchain==0.2.6
+langchain-core==0.2.10
+langchain-community==0.2.6
+langchain-openai==0.1.14
+langgraph==0.1.5
+
+# ── Vector Databases ───────────────────────────────────────
+chromadb==0.5.3
+faiss-cpu==1.8.0
+
+# ── Embeddings (HuggingFace Sentence Transformers) ─────────
+sentence-transformers==3.0.1
+transformers==4.43.3
+tokenizers==0.19.1
+
+# ── Deep Learning ──────────────────────────────────────────
+torch==2.3.1
+accelerate==0.32.1
+
+# ── Document Loaders ───────────────────────────────────────
+pypdf==4.3.1
+python-docx==1.1.2
+unstructured==0.14.9
+markdown==3.6
+
+# ── Database (MySQL / SQLite) ──────────────────────────────
+sqlalchemy==2.0.31
+pymysql==1.1.1
+alembic==1.13.2
+
+# ── NLP Utilities ──────────────────────────────────────────
+nltk==3.8.1
+spacy==3.7.5
+scikit-learn==1.5.1
+numpy==1.26.4
+scipy==1.13.1
+
+# ── OpenAI + HuggingFace APIs ──────────────────────────────
+openai==1.35.13
+huggingface-hub==0.23.4
+datasets==2.20.0
+
+# ── Monitoring & Logging ───────────────────────────────────
+loguru==0.7.2
+prometheus-client==0.20.0
+
+# ── Data Handling ──────────────────────────────────────────
+pandas==2.2.2
+pyarrow==16.1.0
+
+# ── Development & Testing ──────────────────────────────────
+pytest==8.2.2
+black==24.4.2
+ruff==0.5.0
+httpx==0.27.0
